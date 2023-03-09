@@ -1,0 +1,1 @@
+A simple Hunt Showdown fan site made for the Codecademy challenge
